@@ -14,6 +14,8 @@ RUN REPO=http://cdn-fastly.deb.debian.org \
     vim \
     jed \
     emacs \
+    libfreetype6-dev \
+    libpng-dev \
     wget \
     build-essential \
     python-dev \
